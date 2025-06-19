@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:padding="16dp"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <EditText
+        android:id="@+id/songtitle"
+        android:layout_width="match_parent"
+        android:layout_height="62dp"
+        android:hint="Song Title" />
+
+    <EditText
+        android:id="@+id/artistname"
+        android:layout_width="match_parent"
+        android:layout_height="68dp"
+        android:hint="Artist Name" />
+
+    <EditText
+        android:id="@+id/Rating"
+        android:layout_width="match_parent"
+        android:layout_height="73dp"
+        android:hint="Rating (1-5)"
+        android:inputType="number" />
+
+    <EditText
+        android:id="@+id/atcomment"
+        android:layout_width="match_parent"
+        android:layout_height="66dp"
+        android:hint="Comment" />
+
+    <Button
+        android:id="@+id/btnAddSong"
+        android:text="Add to Playlist"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/btnDetails"
+        android:text="Detailed View"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/btnExit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Exit" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="378dp"
+        android:layout_height="82dp"
+        android:text="welcome to the playlist manager" />
+
+</LinearLayout>
