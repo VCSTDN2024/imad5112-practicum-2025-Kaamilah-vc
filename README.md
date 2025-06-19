@@ -1,22 +1,32 @@
-Playlist Manager app
+*Playlist Manager app*
 
 Developer: Kaamilah Seni Reaze Mahomed
+
 Student Number: ST10492062
+
 Group: GROUP 1
+
 Course: Higher Certificate in Mobile Application and Web Development
+
 Subject: IMAD
+
 Links
 GitHub Repository: https://github.com/VCSTDN2024/imad5112-practicum-2025-Kaamilah-vc.git
-App Overview
+
+*App Overview*
+
 The Welcome to playlist manager it is an application for Android that aims to give users the option off rate songs, give comments and give feeddback about the artists.This application, which was created with Kotlin and Android Studio, allow users to rate songs with arrays of singer.
 
-What is the app purpose?The app, besides to showcase a simple and intercative music playlist
-Features:
-Show the artist names
-We can tap an artist to view detailed information
-Easy to use and customaze your own playlist.
-The review screen allow players to restart the quiz so they can try it again.
-Design Considerations
+*What is the app purpose? The app, besides to showcase a simple and intercative music playlist*
+
+*Features:*
+
+-Show the artist names
+=We can tap an artist to view detailed information
+-Easy to use and customaze your own playlist.
+-The review screen allow players to restart the quiz so they can try it again.
+
+*Design Considerations*
 User Experience (UX):
 
 The app was designed to give an easy and accessible experience.
@@ -49,20 +59,28 @@ If yoy want check out another artist press the back button
 Screenshots
 ---------------------------
 
+![image](https://github.com/user-attachments/assets/b4da4f36-11cc-4a8c-bc3b-31e04a7838ba)
  /> Caption for screenshot 1: A screen showing the main Screen,so we're  inputing the artists details
+
+ 
+![image](https://github.com/user-attachments/assets/4535adde-399b-4350-916e-5e498a2a95f8)
  Caption for screenshot 2: A screen showing the main Screen kotlin code
  
+![image](https://github.com/user-attachments/assets/11bf98a0-466a-4048-9a8d-e96c30a72b2b)
 Caption for screenshot 3: The continuation of the code
 
-  Caption for screenshot 4: The Detailed View Screen showing the avarage
+ ![image](https://github.com/user-attachments/assets/f67781fa-c649-4632-afdf-73644c370334)
+ Caption for screenshot 4: The Detailed View Screen showing the avarage
 
+![image](https://github.com/user-attachments/assets/39e7cc52-0697-4f90-b4b1-18ceeab22765)
 Caption for screenshot 5: the detailed view screen code continuation 
 
-  Caption for screenshot 6: the main screen when we presses the back button
+  ![image](https://github.com/user-attachments/assets/0da85210-6ef5-48ea-954b-fb0e903edc27)
+Caption for screenshot 6: the main screen when we presses the back button
 
 
 
-Challenges faced while criating the app
+*Challenges faced while criating the app*
 
 Challenge 1: The app was crushing Solution: I watched some videos to fix and i had to start over the app
 Challenge 2: The exit and Detailed View buttons did not work.
@@ -77,7 +95,7 @@ Feature 3: Allow users to play it online in groups with friend.
 
 Feature 4: Allow users answer questions by speaking instead of using buttons.
 
-References
+*References*
 ‌
 
 Kotlin for developers. 2024. “Write Conditionals in Kotlin  |  Android Developers”. Android Developers. 2024 https://developer.android.com/codelabs/basic-android-kotlin-compose-conditionals#0 [accessed 18 May 2025].
