@@ -19,13 +19,13 @@ class MainActivity : AppCompatActivity() {
         "Taylor Swift", "Drake", "Beyoncé", "The Weeknd"
     )
 
-    private val ratings = arrayListOf(5, 4, 5, 4)
+    private val ratings = arrayListOf(3, 4, 5, 4)
 
     private val comments = arrayListOf(
         "Amazing",
         "Great beat and flow.",
         "Iconic vocals!",
-        "Love the retro vibe."
+        "Love the vibe."
     )
 
     @SuppressLint("MissingInflatedId")

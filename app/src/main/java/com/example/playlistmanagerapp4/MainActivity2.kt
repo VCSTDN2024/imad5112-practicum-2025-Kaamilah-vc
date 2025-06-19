@@ -16,10 +16,10 @@ class MainActivity2 : AppCompatActivity() {
         val btnAverage = findViewById<Button>(R.id.btnAverage)
         val btnBack = findViewById<Button>(R.id.btnBack)
 
-        val titles = intent.getStringArrayListExtra("titles") ?: arrayListOf()
-        val artists = intent.getStringArrayListExtra("artists") ?: arrayListOf()
-        val ratings = intent.getIntegerArrayListExtra("ratings") ?: arrayListOf()
-        val comments = intent.getStringArrayListExtra("comments") ?: arrayListOf()
+        val titles = intent.getStringArrayListExtra(" Cruel Summer, God's Plan, Halo, Blinding Lights") ?: arrayListOf()
+        val artists = intent.getStringArrayListExtra("Taylor Swift, Drake, Beyoncé, The Weeknd") ?: arrayListOf()
+        val ratings = intent.getIntegerArrayListExtra("3, 4, 5, 4") ?: arrayListOf()
+        val comments = intent.getStringArrayListExtra("") ?: arrayListOf()
 
         val output = StringBuilder()
         for (i in titles.indices) {
